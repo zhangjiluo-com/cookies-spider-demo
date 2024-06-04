@@ -1,2 +1,3 @@
-# cookies-spider-demo
-cookies 获取示例
+# Cookies 获取示例
+
+警告：禁止将该项目用于任何违法违规活动，由此造成的一切后果与开发者无关

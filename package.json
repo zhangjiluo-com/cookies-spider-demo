@@ -1,0 +1,22 @@
+{
+  "name": "@zhangjiluo.com/cookies-spider-server",
+  "version": "1.0.0",
+  "description": "cookies 获取示例",
+  "main": "index.mjs",
+  "type": "module",
+  "module": "index.mjs",
+  "scripts": {
+    "start": "node ./index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangjiluo-com/cookies-spider-demo"
+  },
+  "keywords": [],
+  "author": "zhangjiluo.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^22.10.0"
+  }
+}
